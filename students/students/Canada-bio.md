@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Java
+- One Git Tip Learned: Learned about commit, push then pull.   
+- GitHub: @keithcharven
